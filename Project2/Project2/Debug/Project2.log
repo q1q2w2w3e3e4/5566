@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/12/14 15:16:24。
+     1>项目“d:\document_x64\documents\visual studio 2012\Projects\Project2\Project2\Project2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012安装地\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\vs2012安装地\vc\include\stdio.h(1): fatal error C1014: 包含文件太多 : 深度 = 1024
+     1>已完成生成项目“d:\document_x64\documents\visual studio 2012\Projects\Project2\Project2\Project2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.66
